@@ -1,0 +1,49 @@
+body {
+    background-color: pink;
+}
+
+.component{
+    margin-top: 100px;
+}
+
+.element h2{
+    color: red;
+    font-weight: 300;
+}
+
+.element p{
+    color: rgb(242, 46, 78);
+    font-weight: 100;
+    line-height: 2;
+}
+
+.navbar.scrolled {
+    background-color: blueviolet;
+}
+
+#MainBar .navbar-brand {
+    color: red;
+    font-weight: 400;
+}
+
+#MainBar .nav-link{
+    color: white;
+}
+
+/*Permet de changer la couleur lorsque l'on passe le curseur dessus*/
+#MainBar .nav-link:hover{
+    color: red;
+}
+
+#MainBar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#HeadingMuseum span{
+    color: red;
+}
+
+#HeadingMuseum h1{
+    font-weight: 300;
+}
